@@ -1,0 +1,9 @@
+.container{
+    background-color: blueviolet;
+}
+.footer {
+    text-align: center;
+}
+.imagen-ajustada {
+    width: fit-content
+}
